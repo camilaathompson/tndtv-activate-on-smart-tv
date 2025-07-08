@@ -1,0 +1,1 @@
+# tndtv-activate-on-smart-tv
