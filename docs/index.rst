@@ -1,10 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tv.activation-key.net/">
+
 How to Activate TND TV on Smart TV? 📺
 ============================================
-.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 The world of home entertainment has rapidly shifted toward digital streaming, and Smart TVs have become a central part of this evolution. One of the rising stars in the streaming industry is TND TV, known for delivering a rich variety of content including movies, TV series, news, live events, and more. If you’ve just downloaded the app and are wondering how to tnd tv activate on smart tv, you’re in the right place.
 
